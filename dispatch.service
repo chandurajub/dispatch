@@ -1,6 +1,7 @@
 [Unit]
 Description=Go Dispatch Service
 
+
 [Service]
 User=dispatch
 ExecStart=/home/dispatch/dispatch/dispatch
